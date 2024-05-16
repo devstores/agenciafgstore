@@ -15,7 +15,7 @@ module.exports = {
 
   // Platform specific configs for API
   api: {
-    storeId: "storeframework",
+    storeId: "agenciafg",
     workspace: 'master',
     environment: 'vtexcommercestable',
     hideUnavailableItems: true,
@@ -46,7 +46,7 @@ module.exports = {
   },
 
   // Production URLs
-  storeUrl: "https://storeframework.vtex.app",
+  storeUrl: "https://agenciafg.vtex.app",
   secureSubdomain: "https://secure.vtexfaststore.com/",
   checkoutUrl: "https://secure.vtexfaststore.com/checkout",
   loginUrl: "https://secure.vtexfaststore.com/api/io/login",
@@ -93,7 +93,7 @@ module.exports = {
 
   vtexHeadlessCms: {
     webhookUrls: [
-      "https://storeframework.myvtex.com/cms-releases/webhook-releases",
+      "https://agenciafg.myvtex.com/cms-releases/webhook-releases",
     ],
   },
 }
