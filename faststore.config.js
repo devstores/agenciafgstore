@@ -93,7 +93,7 @@ module.exports = {
 
   vtexHeadlessCms: {
     webhookUrls: [
-      "https://storeframework.myvtex.com/cms-releases/webhook-releases",
+      "https://agenciafg.myvtex.com/cms-releases/webhook-releases",
     ],
   },
 }
